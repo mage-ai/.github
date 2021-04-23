@@ -4,5 +4,5 @@
 # Tests
 <!-- How did you test your change? -->
 
-to:
-<!-- Tag at least 1 person for review -->
+cc:
+<!-- Optionally mention someone to let them know about this pull request -->
