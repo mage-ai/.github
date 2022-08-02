@@ -1,6 +1,6 @@
 ## Hello Magers 🔥 ⚡ 🌊
 
-![Magers](https://media.graphassets.com/xQPZH0JcT52q2J88Z6cr)
+![Magers](https://media.graphassets.com/rtZz4d9lReGNiSYwFW4T)
 
 <br />
 
