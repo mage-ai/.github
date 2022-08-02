@@ -1,9 +1,6 @@
 ## Hello Magers 🔥 ⚡ 🌊
 
-<img
-  alt="Magers"
-  src="./magers.jpg"
-/>
+![Magers](https://media.graphassets.com/xQPZH0JcT52q2J88Z6cr)
 
 
 <br />
