@@ -1,6 +1,6 @@
 ## Hello Magers 🔥 ⚡ 🌊
 
-![Magers](https://media.graphassets.com/rtZz4d9lReGNiSYwFW4T)
+![Magers](https://github.com/mage-ai/assets/blob/main/mascots/mascots.jpg?raw=true)
 
 | | |
 | ----------- | ----------- |
